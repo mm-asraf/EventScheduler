@@ -1,0 +1,17 @@
+{
+  "name": "scheduler-app",
+  "version": "1.0.0",
+  "description": "this is an app for scheduling event",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "mahboob-asraf",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7",
+    "node-cron": "^3.0.0"
+  }
+}
