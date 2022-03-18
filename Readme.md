@@ -14,7 +14,7 @@
 
 ## framework
 
-- before i tell the choice of framework is used, I would like to walk you through nodejs. so basically nodejs is basically based on single-threaded event-driven mechanism and have asynchronous behaviour which makes nodejs powerful backend library to make dynamic and hybrid web application.
+- before i tell the choice of framework i used, I would like to walk you through nodejs. so basically nodejs is  based on single-threaded event-driven mechanism and have asynchronous behaviour which makes nodejs powerful backend library to make dynamic and hybrid web application.
   it has some inbuilt core modules which makes nodejs to stand different in markets
 
 - I Choose expressjs framework, because as far as i started working with express i found that it is really simple to create restful api,flexible,minimalism that means i dont have to write too much code.
