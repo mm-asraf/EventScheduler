@@ -20,7 +20,7 @@
 - I Choose expressjs framework, because as far as i started working with express i found that it is really simple to create restful api,flexible,minimalism that means i dont have to write too much code.
 - And one thing, express have wide range of external packages and already built by someone else and you can use this packages or node_modules to build your application.for example:- body-parser,express-session etc.
 - you can create middleware so that you can make changes in your routes. you can create multiple middleware for diffrent purpose like if you want to authenticate user for next process or want to block in some part of application you can use or make your own middleware to achieve this.
-- using express its easy to create RESTful api's.
+- using express gives eainessy to create RESTful api's.
 - Express also supports MVC like architechture which is a modern way of developing application.
 - Express also supports RDBMS and Nosql Databases.
 
